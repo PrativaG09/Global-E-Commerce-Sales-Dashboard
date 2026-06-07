@@ -30,4 +30,4 @@ Records Analyzed: 9,977
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here after upload)
+![Global E-Commerce Sales Dashboard](Dashboard_Screenshot.png)
